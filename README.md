@@ -23,8 +23,8 @@ python main.py --dataset xxx
 
 ```
 
-For the suggested settings for all datasets, please refer to the file <b>run_all.py</b></li>
-
+For the suggested settings for all datasets, please refer to the file <b>run_all.py</b>
+</li>
 
 
 ## Citation
