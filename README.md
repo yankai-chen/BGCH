@@ -16,7 +16,7 @@ All datasets except are directly available in the folder "BGCH/Dataset/*". For t
 
 ## To Run the codes under "BGCH/src/*"
 
-<li> <b>Simply specify the dataset as well as the settings as follows</b>:
+<b>Simply specify the dataset as well as the settings as follows</b>:
 ```
 
 python main.py --dataset xxx 
@@ -24,7 +24,7 @@ python main.py --dataset xxx
 ```
 
 For the suggested settings for all datasets, please refer to the file <b>run_all.py</b>
-</li>
+
 
 
 ## Citation
